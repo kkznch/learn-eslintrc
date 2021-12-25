@@ -1,0 +1,9 @@
+{
+  "name": "learn-eslintrc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kkznch/learn-eslintrc.git",
+  "author": "kkznch <kkznch710md@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
